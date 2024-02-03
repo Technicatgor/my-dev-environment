@@ -1,6 +1,14 @@
 # My Dev Environment
 
-# Sketchybar
+## Homebrew
+
+Ref Link: https://brew.sh/
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+## Sketchybar
 
 Repo: https://github.com/FelixKratz/SketchyBar
 
@@ -19,4 +27,3 @@ Repo: https://github.com/FelixKratz/SketchyBar
 ### Relevant Files
 
 - [.config/sketchybar](.config/sketchybar/)
-
