@@ -20,6 +20,8 @@ Ref Link: https://brew.sh/
 
 ## LazyVim
 
+Repo: http://www.lazyvim.org/
+
 - neovim [installation](https://technicatgor.github.io/posts/LazyVimIDE/)
   `brew install neovim`
 - [nvim](./nvim/) configuration and plugin
