@@ -18,6 +18,9 @@ Ref Link: https://brew.sh/
 - p10k
   `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/themes/powerlevel10k`
 
+- [tmux](https://tmux.github.io/) - `/tmux` place into `~/.config/tmux`
+  `brew install tmux`
+
 ## LazyVim
 
 Repo: http://www.lazyvim.org/
